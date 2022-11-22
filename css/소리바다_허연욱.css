@@ -11,7 +11,7 @@ input {
   font-size: 14px;
 }
 
-img {
+.search img {
   position: absolute;
   width: 17px;
   top: 10px;
@@ -19,5 +19,9 @@ img {
   margin: 0;
 }
 
-.logo img {
+.hd {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1400px;
+  margin: auto;
 }
