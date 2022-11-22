@@ -25,3 +25,26 @@ input {
   max-width: 1400px;
   margin: auto;
 }
+
+nav ul {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1400px;
+  margin: auto;
+  margin-top: 60px;
+  font-weight: bold;
+}
+
+.sec1 {
+  max-width: 1400px;
+  margin: auto;
+}
+
+.sec1 ul {
+  display: flex;
+}
+
+.sec1 h1 {
+  font-size: 25px;
+  font-weight: bold;
+}
